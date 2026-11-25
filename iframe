@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>HTML Iframe Example</title>
+</head>
+
+<body>
+
+    <h2>HTML5 Iframe Example</h2>
+
+    <p>Wikipedia website displayed inside an iframe:</p>
+
+    <iframe src="https://www.wikipedia.org/" width="600" height="400" title="Wikipedia Website">
+    </iframe>
+
+</body>
+
+</html>
